@@ -20,5 +20,5 @@ elif op == "**":
 elif op =="*":
     print(n1*n2)
         
-master
+master.
 
